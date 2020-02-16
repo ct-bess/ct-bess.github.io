@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cafd15de.chunk.css",
-    "main.js": "/static/js/main.f6239fda.chunk.js",
-    "main.js.map": "/static/js/main.f6239fda.chunk.js.map",
+    "main.js": "/static/js/main.472d647a.chunk.js",
+    "main.js.map": "/static/js/main.472d647a.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a6aef668.js",
     "runtime~main.js.map": "/static/js/runtime~main.a6aef668.js.map",
     "static/js/2.ddde4189.chunk.js": "/static/js/2.ddde4189.chunk.js",
     "static/js/2.ddde4189.chunk.js.map": "/static/js/2.ddde4189.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.328fec4d386fabe70c4379538a44e077.js": "/precache-manifest.328fec4d386fabe70c4379538a44e077.js",
+    "precache-manifest.874a18ff0f95dfef6ccc53342d9670ac.js": "/precache-manifest.874a18ff0f95dfef6ccc53342d9670ac.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cafd15de.chunk.css.map": "/static/css/main.cafd15de.chunk.css.map",
     "static/media/those-cards.png": "/static/media/those-cards.67f34ec8.png"
