@@ -1,5 +1,6 @@
 // @ts-nocheck
 import entries from "../../../../public/json/blog-entries.json";
+import staticParams from "../../../../public/json/blog-static-params.json";
 import "../style.css";
 
 interface BlogParams {
@@ -8,6 +9,10 @@ interface BlogParams {
     month: string,
     entry: string
   }
+}
+
+export function generateStaticParams() {
+  return( staticParams["[year]"] );
 }
 
 /**

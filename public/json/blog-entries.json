@@ -1,4 +1,4 @@
-[ 
+[
   {
     "id": "blog-2024",
     "year": "2024",
@@ -8,6 +8,7 @@
       [
         {
           "name": "Chevron Houston Marathon #3",
+          "id": "chm",
           "path": "/blog/2024/jan/chm"
         }
       ],
@@ -15,6 +16,7 @@
       [
         {
           "name": "New Website, New Me",
+          "id": "website",
           "path": "/blog/2024/feb/website"
         }
       ]

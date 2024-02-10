@@ -1,6 +1,7 @@
 [
   {
     "name": "YYYYYY",
+    "id": "yyyyyy",
     "sitePath": "/games/yyyyyy",
     "description": "2D platformer inspired by VVVVVV",
     "thumbnailPath": "/yyyyyy-thumbnail.png"
