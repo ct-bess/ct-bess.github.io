@@ -1,0 +1,81 @@
+img, iframe {
+  border-radius: 1em;
+  box-shadow: 10px 7px 5px rgba(0, 0, 0, 0.7);
+}
+
+table {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+th {
+  background-color: rgb(121, 110, 187);
+}
+
+td, th {
+  font-size: large;
+  outline: solid black 1px;
+  padding: 8px;
+}
+
+p.intro {
+  font-size: large;
+}
+
+tr.odd-table-row {
+  background-color: rgb(59, 46, 141);
+}
+
+tr.even-table-row {
+  background-color: rgb(79, 68, 146);
+}
+
+.table-bottom-right {
+  border-bottom-right-radius: 0.5em;
+}
+
+.table-bottom-left {
+  border-bottom-left-radius: 0.5em;
+}
+
+.table-top-right {
+  border-top-right-radius: 0.5em;
+}
+
+.table-top-left {
+  border-top-left-radius: 0.5em;
+}
+
+.running-profile-container {
+  background-color: rgba(0, 0, 139, 0.75);
+  background: repeating-linear-gradient( 0deg, rgba(255, 0, 0, 0.3), rgba(0, 0, 255, 0.5), rgba(0, 128, 0, 0.3) );
+  outline: solid black;
+  border-radius: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 1em;
+  padding: 1em;
+}
+
+.race-container {
+  padding: 1em;
+  margin-right: 10em;
+  margin-left: 10em;
+  border-radius: 1em;
+}
+
+.marathon-container {
+  background: linear-gradient( 0deg, rgba(255, 0, 0, 0.3), rgba(111, 0, 255, 0.5) );
+}
+
+.half-marathon-container {
+  background: linear-gradient( 0deg, rgba(255, 166, 0, 0.3), rgba(0, 0, 255, 0.5) );
+}
+
+.five-k-container {
+  background: linear-gradient( 0deg, rgba(0, 136, 7, 0.4), rgba(0, 0, 255, 0.5) );
+}
+
+.other-container {
+  background: linear-gradient( 0deg, rgba(0, 166, 216, 0.4), rgba(0, 0, 255, 0.5) );
+}

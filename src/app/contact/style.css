@@ -1,0 +1,21 @@
+.contact-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0.5em;
+}
+
+.contact-item {
+  font-size: larger;
+}
+
+.logo {
+  box-sizing: inherit;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+}
+
+.stealth-100 {
+  color: black;
+}

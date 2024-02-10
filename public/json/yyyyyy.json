@@ -1,0 +1,16 @@
+{
+  "description": "YYYYYY is my cheap knock off imitation of Terry Cavanagh's amazing VVVVVV. I created this in 2019 as a way of learning Impact.js",
+  "links": {
+    "Impact.js": "https://impactjs.com/",
+    "Terry's website": "http://distractionware.com/",
+    "VVVVVV on Steam": "https://store.steampowered.com/app/70300/VVVVVV/",
+    "VVVVVV on Github": "https://github.com/TerryCavanagh/VVVVVV"
+  },
+  "controls": {
+    "left arrow key": "move left",
+    "right arrow key": "move right",
+    "x": "flip",
+    "q": "respawn at checkpoint",
+    "r": "reset game"
+  }
+}

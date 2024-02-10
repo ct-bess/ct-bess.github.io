@@ -1,0 +1,328 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+  display: flex;
+  flex-direction: column;
+}
+
+html, body {
+  height: 100%;
+}
+
+body > * {
+  flex: 1 0 auto;
+}
+
+header, footer {
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient( 0deg, rgba(0, 0, 255, 0.8), rgb(220, 0, 0, 0.7) );
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+header {
+  font-size: large;
+  flex-grow: 0;
+  margin-bottom: 0em;
+}
+
+footer {
+  margin-top: 0em;
+  flex-grow: 0;
+}
+
+h1 {
+  font-size: xx-large;
+} 
+
+h2 {
+  font-size: xx-large;
+}
+
+figure {
+  margin: 1em;
+  padding: 5px;
+  border: thin #c0c0c0 solid;
+  border-radius: 0.5em;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-flow: column;
+}
+
+figcaption {
+  background-color: #222;
+  border-radius: 0.5em;
+  padding: 5px;
+  color: #fff;
+  font: italic smaller sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style-type: disc;
+}
+
+li li {
+  list-style-type: circle;
+  margin-left: 1em;
+}
+
+li li li {
+  list-style-type: none;
+}
+
+h1 > span, h2 > span {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+
+h1 > span {
+  outline: double black;
+  background-color: rgba(255, 0, 255, 0.25);
+  background: linear-gradient( 180deg, rgba(0, 0, 255), rgb(255, 38, 0, 0.8) );
+}
+
+h2 > span {
+  outline: double black;
+  background-color: rgba(255, 0, 255, 0.25);
+  background: linear-gradient( 180deg, rgba(0, 0, 139), rgba(0, 128, 0, 0.7) );
+}
+
+h1, h2 {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+header > a, footer > a {
+  background: radial-gradient( circle at center, rgba(105, 0, 0, 0.5) 0, rgba(0, 200, 77, 0.8) 115% );
+  border-radius: 10px;
+  padding: 0.5em;
+  outline: solid darkblue 1px;
+}
+
+header > a:hover, footer > a:hover {
+  transform: scale( 1.03 );
+  filter: contrast( 2 );
+}
+
+header > span, footer > span {
+  background-color: rgba(140, 0, 120, 0.5);
+  border-radius: 10px;
+  padding: 0.5em;
+  outline: solid black 1px;
+}
+
+span > a {
+  color: blue;
+}
+
+.bread-crumbs {
+  padding: 1em;
+  margin-left: 1em;
+  font-size: large;
+}
+
+.site-navigation-link {
+  width: 10em;
+  text-align: center;
+}
+
+.light-black-background {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 1em;
+  padding: 0.5em;
+}
+
+p.blurb {
+  text-indent: 3em;
+  font-size: large;
+}
+
+a.link {
+  color: rgb(182, 182, 235);
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.general-image {
+  border-radius: 0.5em;
+}
+
+.high-contrast {
+  filter: contrast( 1.5 );
+}
+
+.tiny-text {
+  font-size: small;
+}
+
+.thicc {
+  font-size: 5vw;
+  line-height: 125%;
+  font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.half-width {
+  width: 50%;
+}
+
+.margin-left {
+  margin-left: 0.5em;
+}
+
+.picture-bubble {
+  border-radius: 50%;
+}
+
+.timeline-image {
+  padding: 0.75em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.timeline {
+  font-size: large;
+}
+
+.timeline-container {
+  background-image: linear-gradient( 0deg, rgba(0, 0, 139, 0.5), rgb(40, 139, 0, 0.5) ), url( "../../public/eclipse-garden-of-gods-2023.jpg" );
+  background-size: cover;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.flex {
+  display: flex;
+}
+
+table.sneaky-table > tbody tr td {
+  padding: 1em;
+  outline: solid white 1px;
+  border-radius: 0.5em;
+  font-size: large;
+}
+
+.center {
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about-container {
+  background-image: linear-gradient(rgba(0, 0, 255, 0.3), rgba(255, 255, 0, 0.2)), url( "../../public/banner-flare.jpg" );
+  background-size: cover;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.profile-container {
+  display: inline-flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgba(0, 0, 139, 0.75);
+  background: repeating-linear-gradient( 0deg, rgba(255, 0, 0, 0.5), blue, rgba(0, 128, 0, 0.5) );
+  outline: solid black;
+  border-radius: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.profile-item {
+  margin: 5em;
+}
+
+.float-right {
+  float: right;
+  margin-left: 1em;
+}
+
+.float-left {
+  float: left;
+  margin-right: 1em;
+}
+
+.float-item {
+  overflow: hidden;
+}
+
+.float-item:last-child {
+  overflow: visible;
+}
+
+.inline-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: large;
+}
+
+.list-selector {
+  padding: 1em;
+  margin-left: 3em;
+  font-size: large;
+}
+
+.general-container {
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: large;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.expand {
+  animation-name: expand;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-fill-mode: none;
+}
+
+@keyframes expand {
+  from {
+    transform: translateY( 0px );
+  }
+  to {
+    transform: translateY( 50px );
+  }
+}

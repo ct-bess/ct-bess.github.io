@@ -1,0 +1,23 @@
+[ 
+  {
+    "id": "blog-2024",
+    "year": "2024",
+    "months":
+    {
+      "January":
+      [
+        {
+          "name": "Chevron Houston Marathon #3",
+          "path": "/blog/2024/jan/chm"
+        }
+      ],
+      "Febuary":
+      [
+        {
+          "name": "New Website, New Me",
+          "path": "/blog/2024/feb/website"
+        }
+      ]
+    }
+  }
+]

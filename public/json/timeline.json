@@ -1,0 +1,172 @@
+[
+  {
+    "startDate": "Present",
+    "endDate": "Oct 2022",
+    "image":
+    {
+      "src": "/corebridgefinancial_logo.jpg",
+      "alt": "Corebridge Financial logo"
+    },
+    "company": "Corebridge Financial",
+    "location": "Houston, TX",
+    "title": "Senior Software Engineer",
+    "job": "Full-stack web application design and development",
+    "skills":
+    [
+      {
+        "name": "React / Redux",
+        "logoPath": "/react-redux-logo.png"
+      },
+      {
+        "name": "Spring-boot",
+        "logoPath": "/spring-boot-logo.png"
+      },
+      {
+        "name": "AWS",
+        "logoPath": "/aws-logo.webp"
+      },
+      {
+        "name": "AEM",
+        "logoPath": "/aem-logo.png"
+      }
+    ]
+  },
+  {
+    "startDate": "Aug 2021",
+    "endDate": "Oct 2022",
+    "image": {
+      "src": "/aig_logo.jpg",
+      "alt": "AIG logo"
+    },
+    "company": "AIG",
+    "location": "Houston, TX",
+    "title": "Junior Software Engineer",
+    "job": "Full-stack web application design and development",
+    "skills":
+    [
+      {
+        "name": "React / Redux",
+        "logoPath": "/react-redux-logo.png"
+      },
+      {
+        "name": "Spring-boot",
+        "logoPath": "/spring-boot-logo.png"
+      },
+      {
+        "name": "PCF",
+        "logoPath": "/pcf-logo.png"
+      },
+      {
+        "name": "AEM",
+        "logoPath": "/aem-logo.png"
+      }
+    ]
+  },
+  {
+    "startDate": "Jan 2021",
+    "endDate": "Aug 2021",
+    "image": {
+      "src": "/aig_logo.jpg",
+      "alt": "AIG logo"
+    },
+    "company": "AIG",
+    "location": "Houston, TX",
+    "title": "Technology Analyst Program (rotation #3)",
+    "job": "DevOps Engineer",
+    "skills":
+    [
+      {
+        "name": "Groovy",
+        "logoPath": "/groovy-logo.png"
+      },
+      {
+        "name": "Terraform",
+        "logoPath": "/terraform-logo.png"
+      },
+      {
+        "name": "AWS",
+        "logoPath": "/aws-logo.webp"
+      },
+      {
+        "name": "Jenkins",
+        "logoPath": "/jenkins-logo.png"
+      }
+    ]
+  },
+  {
+    "startDate": "Apr 2020",
+    "endDate": "Dec 2020",
+    "image": {
+      "src": "/aig_logo.jpg",
+      "alt": "AIG logo"
+    },
+    "company": "AIG",
+    "location": "Houston, TX",
+    "title": "Technology Analyst Program (rotation #2)",
+    "job": "Security Engineering",
+    "skills":
+    [
+      {
+        "name": "Veracode",
+        "logoPath": "/veracode-logo.png"
+      },
+      {
+        "name": "OWASP",
+        "logoPath": "/owasp-logo.png"
+      }
+    ]
+  },
+  {
+    "startDate": "Aug 2019",
+    "endDate": "Mar 2020",
+    "image": {
+      "src": "/aig_logo.jpg",
+      "alt": "AIG logo"
+    },
+    "company": "AIG",
+    "location": "Houston, TX",
+    "title": "Technology Analyst Program (rotation #1)",
+    "job": "Software Engineer: full-stack development",
+    "skills":
+    [
+      {
+        "name": "React / Redux",
+        "logoPath": "/react-redux-logo.png"
+      },
+      {
+        "name": "Spring-boot",
+        "logoPath": "/spring-boot-logo.png"
+      }
+    ]
+  },
+  {
+    "startDate": "May 2018",
+    "endDate": "Jul 2018",
+    "image": {
+      "src": "/valic_logo.jpg",
+      "alt": "VALIC logo"
+    },
+    "company": "VALIC / AIG",
+    "location": "Houston, TX",
+    "title": "Software Engineering Intern: Frontend development",
+    "skills":
+    [
+      {
+        "name": "React / Redux",
+        "logoPath": "/react-redux-logo.png"
+      }
+    ]
+  },
+  {
+    "startDate": "2014",
+    "endDate": "2019",
+    "image": {
+      "src": "/texas_am_logo.jpg",
+      "alt": "Texas A&M logo"
+    },
+    "company": "Texas A&M University",
+    "location": "College Station, TX",
+    "title": "Computer Engineering",
+    "job": "B.S."
+  }
+]

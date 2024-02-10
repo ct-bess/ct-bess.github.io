@@ -1,0 +1,14 @@
+.game-container {
+  display: flex;
+}
+
+.game-details {
+  font-size: large;
+  margin-right: 4em;
+  margin-left: 2em;
+  width: 20vw;
+}
+
+.game-details-list {
+  margin-left: 2em;
+}
