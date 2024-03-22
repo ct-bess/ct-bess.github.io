@@ -11,12 +11,34 @@ function createTableBody( jsonFileName: string ) {
 
   const prData: Array<PRData> = require( `../../../public/json/${jsonFileName}.json` );
 
+  // This is VeRY messy
   const prTableRows: Array<any> = [];
   let oddIteration = true, iterations = 1;
+  let prTime: Number = Number.MAX_SAFE_INTEGER;
+
+  // find the fastest time in the least optimal way possible
+  // I should really use the client here ...
   prData.forEach( pr => {
+    const currentTime: Number = parseInt( pr.time?.replaceAll( ":", "" ) )
+    const isNewPRTime: Boolean = currentTime < prTime;
+    if( isNewPRTime ) {
+      prTime = currentTime;
+    }
+  });
+
+  prData.forEach( pr => {
+
+    const currentTime: Number = parseInt( pr.time?.replaceAll( ":", "" ) )
+    let rowClassName = oddIteration ? "odd-table-row" : "even-table-row";
+    let timeClassName = iterations == prData.length ? "table-bottom-left" : "";
+    if( currentTime === prTime && jsonFileName !== "other" ) {
+      rowClassName = "pr-row";
+      timeClassName += "pr-row";
+    }
+
     prTableRows.push(
-      <tr className={oddIteration ? "odd-table-row" : "even-table-row"}>
-        <td id="0" className={iterations == prData.length ? "table-bottom-left" : ""}>{pr.time}</td>
+      <tr className={rowClassName}>
+        <td id="0" className={timeClassName}>{pr.time}</td>
         <td id="1">M-{pr.age}</td>
         <td id="2">{pr.name}</td>
         <td id="3">{pr.date}</td>
@@ -29,6 +51,7 @@ function createTableBody( jsonFileName: string ) {
     ++iterations;
     oddIteration = !oddIteration;
   });
+
   return( prTableRows );
 }
 

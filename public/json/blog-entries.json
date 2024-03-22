@@ -19,6 +19,14 @@
           "id": "website",
           "path": "/blog/2024/feb/website"
         }
+      ],
+      "March":
+      [
+        {
+          "name": "Seabrook Lucky Trails Marathon #1",
+          "id": "website",
+          "path": "/blog/2024/mar/slt"
+        }
       ]
     }
   }

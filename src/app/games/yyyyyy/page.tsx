@@ -24,7 +24,7 @@ export default function Page() {
     });
 
     return () => {
-      // we don't need this, right?
+      // we don't need this, right? SURELY the DOM will behave nicely on page transition
       // document.removeChild( document.getElementById( "demo-game" ) );
     };
 

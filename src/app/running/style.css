@@ -22,6 +22,14 @@ p.intro {
   font-size: large;
 }
 
+tr.pr-row {
+  background-color: rgb(2, 85, 110);
+}
+
+td.pr-row {
+  font-weight: bold;
+}
+
 tr.odd-table-row {
   background-color: rgb(59, 46, 141);
 }

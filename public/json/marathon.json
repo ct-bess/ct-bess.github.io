@@ -1,6 +1,14 @@
 [
   {
-    "name": "Chevron Houston Marathon",
+    "name": "Seabrook Lucky Trails Marathon #1",
+    "date": "3/16/2024",
+    "time": "3:07:51",
+    "resultLink": "https://www.seabrookmarathon.org/Results2024/seabrookmarathonsat2024.htm",
+    "blogLink": "/blog/2024/mar/slt",
+    "age": "28"
+  },
+  {
+    "name": "Chevron Houston Marathon #3",
     "date": "1/14/2024",
     "time": "3:00:10",
     "resultLink": "https://www.timingproductions.com/results-site/houston-details?hou_results_id=554556&hou_results_pid=R92WL64T",
@@ -8,28 +16,28 @@
     "age": "28"
   },
   {
-    "name": "Chevron Houston Marathon",
+    "name": "Chevron Houston Marathon #2",
     "date": "1/15/2023",
     "time": "3:11:24",
     "resultLink": "https://www.timingproductions.com/results-site/houston-details?hou_results_id=279496&hou_results_pid=R9LDSCZ8",
     "age": "27"
   },
   {
-    "name": "BCS Marathon",
+    "name": "BCS Marathon #2",
     "date": "12/12/2021",
     "time": "3:35:21",
     "resultLink": "https://results.allsportstiming.com/myresults.aspx?uid=119-338-2-265285",
     "age": "24"
   },
   {
-    "name": "Chevron Houston Marathon",
+    "name": "Chevron Houston Marathon #1",
     "date": "1/18/2020",
     "time": "5:14:34",
     "resultLink": "https://track.rtrt.me/e/HOU-2020#/dash/RT5UKB9A",
     "age": "23"
   },
   {
-    "name": "BCS Marathon",
+    "name": "BCS Marathon #1",
     "date": "12/09/2018",
     "time": "5:24:48",
     "resultLink": "https://racetecresults.com/myresults.aspx?uid=119-250-2-201514",
