@@ -43,7 +43,7 @@ body > * {
 header, footer {
   display: flex;
   justify-content: space-around;
-  background: linear-gradient( 0deg, rgba(0, 0, 255, 0.8), rgb(220, 0, 0, 0.7) );
+  background: linear-gradient( 0deg, rgba(0, 0, 255, 0.5), rgb(220, 0, 0, 0.6) );
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -107,16 +107,9 @@ h1 > span, h2 > span {
   border-radius: 5px;
 }
 
-h1 > span {
+h1 > span, h2 > span {
   outline: double black;
-  background-color: rgba(255, 0, 255, 0.25);
-  background: linear-gradient( 180deg, rgba(0, 0, 255), rgb(255, 38, 0, 0.8) );
-}
-
-h2 > span {
-  outline: double black;
-  background-color: rgba(255, 0, 255, 0.25);
-  background: linear-gradient( 180deg, rgba(0, 0, 139), rgba(0, 128, 0, 0.7) );
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
 h1, h2 {
@@ -125,7 +118,7 @@ h1, h2 {
 }
 
 header > a, footer > a {
-  background: radial-gradient( circle at center, rgba(105, 0, 0, 0.5) 0, rgba(0, 200, 77, 0.8) 115% );
+  background: radial-gradient( circle at center, rgba(105, 0, 0, 0.5) 0, rgba(0, 134, 52, 0.7) 115% );
   border-radius: 10px;
   padding: 0.5em;
   outline: solid darkblue 1px;
@@ -219,7 +212,7 @@ a:hover {
 }
 
 .timeline-container {
-  background-image: linear-gradient( 0deg, rgba(0, 0, 139, 0.5), rgb(40, 139, 0, 0.5) ), url( "../../public/eclipse-garden-of-gods-2023.jpg" );
+  background-image: linear-gradient( 0deg, rgba(0, 0, 71, 0.8), rgba(0, 0, 0, 0.8) ), url( "../../public/eclipse-garden-of-gods-2023.jpg" );
   background-size: cover;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -244,7 +237,7 @@ table.sneaky-table > tbody tr td {
 }
 
 .about-container {
-  background-image: linear-gradient(rgba(0, 0, 255, 0.3), rgba(255, 255, 0, 0.2)), url( "../../public/banner-flare.jpg" );
+  background-image: linear-gradient(rgba(0, 0, 255, 0.2), rgba(0, 0, 0, 0.5)), url( "../../public/banner-flare.jpg" );
   background-size: cover;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -255,7 +248,7 @@ table.sneaky-table > tbody tr td {
   justify-content: space-evenly;
   align-items: center;
   background-color: rgba(0, 0, 139, 0.75);
-  background: repeating-linear-gradient( 0deg, rgba(255, 0, 0, 0.5), blue, rgba(0, 128, 0, 0.5) );
+  background: rgba(0, 0, 0, 0.7);
   outline: solid black;
   border-radius: 1em;
   margin-left: 2em;

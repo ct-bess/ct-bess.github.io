@@ -73,6 +73,7 @@ export default function Page() {
         </div>
         <canvas id="canvas" className="demo-game"></canvas>
       </div>
+      <br/>
     </main>
   );
 }

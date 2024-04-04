@@ -16,7 +16,7 @@ function createTableBody( jsonFileName: string ) {
   let oddIteration = true, iterations = 1;
   let prTime: Number = Number.MAX_SAFE_INTEGER;
 
-  // find the fastest time in the least optimal way possible
+  // find the fastest time in the least optimal and confusing way possible
   // I should really use the client here ...
   prData.forEach( pr => {
     const currentTime: Number = parseInt( pr.time?.replaceAll( ":", "" ) )

@@ -55,8 +55,6 @@ tr.even-table-row {
 }
 
 .running-profile-container {
-  background-color: rgba(0, 0, 139, 0.75);
-  background: repeating-linear-gradient( 0deg, rgba(255, 0, 0, 0.3), rgba(0, 0, 255, 0.5), rgba(0, 128, 0, 0.3) );
   outline: solid black;
   border-radius: 1em;
   margin-left: 2em;
@@ -67,23 +65,7 @@ tr.even-table-row {
 
 .race-container {
   padding: 1em;
-  margin-right: 10em;
-  margin-left: 10em;
+  margin-right: 10vw;
+  margin-left: 10vw;
   border-radius: 1em;
-}
-
-.marathon-container {
-  background: linear-gradient( 0deg, rgba(255, 0, 0, 0.3), rgba(111, 0, 255, 0.5) );
-}
-
-.half-marathon-container {
-  background: linear-gradient( 0deg, rgba(255, 166, 0, 0.3), rgba(0, 0, 255, 0.5) );
-}
-
-.five-k-container {
-  background: linear-gradient( 0deg, rgba(0, 136, 7, 0.4), rgba(0, 0, 255, 0.5) );
-}
-
-.other-container {
-  background: linear-gradient( 0deg, rgba(0, 166, 216, 0.4), rgba(0, 0, 255, 0.5) );
 }

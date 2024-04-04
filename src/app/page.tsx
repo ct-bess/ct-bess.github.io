@@ -5,6 +5,7 @@ import ContactWidget from "./contact/widget";
 export default function Home() {
   return (
     <main>
+      <br/>
       <div className="about-container">
         <h1 className="center"><span>Connor Bessell</span></h1>
         <div className="profile-container">
@@ -12,9 +13,10 @@ export default function Home() {
           <p className="blurb profile-item light-black-background">
             Howdy! I&apos;m a full-time software engineer who just runs in his spare time, for hours upon hours. He just doesn&apos;t stop running.
             You could say I&apos;m a part-time full-time runner.
-            Anyway... I enjoy working on the frontend and backend of applications, the full-stack.
-            Frontend slightly moreso than backend, but perhaps one day I will specialize into one of the two.
-            I&apos;ve somehow found myself working in the insurance and financial services industry for the past 5+ years,
+            Apart from that, I work on the frontend and backend of applications, the full-stack.
+            I enjoy solving the visual, styling, and user experience problems poised by the Frontend;
+            And creating resilient, flexible, and extensible Backend APIs.
+            I&apos;ve been working in the insurance and financial services industry for the past 5+ years,
             but I wouldn&apos;t mind branching out to software engineering in other sectors.
             I graduated from Texas A&M with a Bachelor Of Science degree in Computer Engineering.
             I persued this degree with the Computer Science department, so this degree is basically a Computer Science degree with Electrical Engineering electives.

@@ -6,7 +6,7 @@ export default function Page() {
     <main>
       <ContactWidget/>
       <br/>
-      <div className="general-container stealth-100">
+      <div className="general-container stealth-90">
         <span className="tiny-text">
           For a 100% chance of me responding to your email or message, please include the following information:
         </span>

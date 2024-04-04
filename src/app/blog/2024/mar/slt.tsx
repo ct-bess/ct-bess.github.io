@@ -38,9 +38,10 @@ export const blogPage = () => {
           I&apos;m young, but no hero. I can at least try though. Try to move forward,
           try to become stronger, try to become better, try to transform all of that negative energy into something positive and beautiful.
         </p>
+        <br/>
         <p className="blurb">
           I drove through Pasadena for the first time on my way to Seabrook. It&apos;s the other side of Houston. Instead of upscale restaurants serving
-          <i>hand-helds</i> and <i>sharables</i>, you&apos;re greeted by the ominous array of oil and natural gas refineries lit up to the tee in lights
+          hand-helds and sharables, you&apos;re greeted by the ominous array of oil and natural gas refineries lit up to the tee in lights
           over every single peice of machinery and supporting structure.
           It gave me this strange dystopian, cyber punk sense as I drove East on highway 255 that morning. I kind of liked it.
           When I rolled up to the start line in Seabrook I could tell right away that this was no big, grandiose marathon full of hype and hullabaloo.
@@ -50,9 +51,10 @@ export const blogPage = () => {
           This race is a looped course where you run 4 10K-ish laps along some nice crushed granite trails.
           Steve had sent me a check list full of pointers to help set my expectations. Just about everything he said was true.
           Like having to snag your own water at the furthest water station, and the quick, narrow 360 degree turn through the western water station.
-          But one peice of advice burrowed its&apos; way into my mind like a worm, &quot;<i>Start out in front, there will be very few people running at your speed.</i>&quot;
-          This race was ment to be a <i>fun run</i> for me, but I couldn&apos;t help but think &quot;<i>What if?</i>&quot; to myself.
+          But one peice of advice burrowed its&apos; way into my mind like a worm, &quot;Start out in front, there will be very few people running at your speed.&quot;
+          This race was ment to be a fun run for me, but I couldn&apos;t help but think &quot;What if?&quot; to myself.
         </p>
+        <br/>
         <p className="blurb">
           And so, I put my best foot forward. I would&apos;ve done so regardless.
           I started out in front with a few other guys, but I had my own race to run. I slowly settled into my pace as I chatted with
@@ -75,6 +77,7 @@ export const blogPage = () => {
           It was as if all of my suffering had been converted into joy in that one moment.
           I am no peacock, but perhaps I was a dragon this day. I felt like I could fly and breathe fire once again; And it felt like a force for good.
         </p>
+        <br/>
         <p className="blurb">
           Of course I was excited to have won something. In fact, I rarely ever win anything. However, it&apos;s not about the trophy or medal.
           Chasing that gold will only lead to emptiness because your reason needs to be deeper than that.

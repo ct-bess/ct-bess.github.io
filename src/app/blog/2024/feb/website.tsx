@@ -18,14 +18,16 @@ export const blogPage = () => {
           This is a snapshot of the home page. I&apos;ve stripped out the intricate scripts leaving behind the layout and styling.
           The hashed router didn&apos;t want to co-operate when I downloaded the snapshot, but the full website was kind of a shell to begin with.
         </p>
+        <br/>
         <p className="blurb">
-          The main thing of note about my old website was that it hosted my first ever game, <a className="link" href="/demos/games/yyyyyy">YYYYYY</a>.
+          The main thing of note about my old website was that it hosted my first ever game, <a className="link" href="/games/yyyyyy">YYYYYY</a>.
           I took on the project after starting my first job out of college and tacked it onto my website without updating much.
           I was curious if I could persue something fun and challenging like that
           while balancing a full time job. It&apos;s tricky, but possible. I&apos;d work 8 hours a day and then come home and work on this game for an hour or 2 a night.
           It goes to show how small, incremental progress can stack up into something nice.
           While my little creation isn&apos;t much to write home about, I still look back on those times fondly.
         </p>
+        <br/>
         <p className="blurb">
           The main reason for scraping the old site and working on the new was to learn this flashy new <a className="link" href="https://nextjs.org/">Next.js</a> thing.
           It turns out the old create-react-app framework is a thing of the past.

@@ -36,6 +36,7 @@ export const blogPage = () => {
           And just like that, you&apos;ve reached your threshold heart rate on what&apos;s supposed to be an easy run in the summer.
           That&apos;s what training for CHM in Houston feels like.
         </p>
+        <br/>
         <p className="blurb">
           Last year I ran it in 3 hours and 11 minutes. For the longest time, I thought that a time under 3 hours was reserved for the elite;
           But here I was just 11 minutes away from that fairy tale. The question of, &quot;what if?&quot; began to turn throughout my mind. I never would&apos;ve imagined myself as someone
@@ -48,6 +49,7 @@ export const blogPage = () => {
           At this point in the race, I found my groove, locked in my cadance, and had one of my salted watermelon gels.
           It was time to get serious, but strangly enough was not the right move.
         </p>
+        <br/>
         <figure className="float-left">
           <Image src="/2024-chm-3-finish.jpg" className="general-image" alt="Man crossing the marathon finish line" width={400} height={600}/>
           <figcaption>My face when finishing CHM after realizing where I went wrong.</figcaption>
@@ -85,6 +87,7 @@ export const blogPage = () => {
           That blister of mine became a blood blister and popped along the way.
           I couldn&apos;t help but smile as I hobbled on numb legs through the ocean of finishers knowing that I truly gave it my all.
         </p>
+        <br/>
         <p className="blurb">
           I watched the clock slowly roll over from 2:59:59 to 3:00:00 on my finish line sprint. Earlier that morning, I crossed the start line after 30 seconds or so.
           I knew I had some wiggle room on the clock.
@@ -96,6 +99,7 @@ export const blogPage = () => {
           Of course I still have goals, dreams, and grand visions. They&apos;re a great tool that helps to orient or align myself towards the future I desire;
           But the moment I begin persuing that gold trophy simply because it&apos;s a shiny accomplishment is the moment I become truly lost.
         </p>
+        <br/>
         <figure className="float-left extra-margin-right">
           <Image src="/2024-chm-3-analysis-strava.png" className="general-image" alt="line graph of marathon pace" width={1000} height={600}/>
           <figcaption>Pace stats from Strava (not official). Notice the dips from the final 10K (mile 20) and then from the final 5K (mile 23).</figcaption>
