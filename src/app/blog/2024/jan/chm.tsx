@@ -94,7 +94,7 @@ export const blogPage = () => {
           After I got inside one of my fellow club members broke the news to me. 3:00:10. That was my finishing chip time.
           I couldn&apos;t help but smile and laugh. Sure, I was dissapointed. However realizing that I wasn&apos;t running my way helped me quickly accept this fact.
           Some people are more goal oriented and like to chase finish times. If that gets you moving then more power to you;
-          It just doen&apos;t work for me. I&apos;m not exactly a goal oriented person. It&apos;s not my element.
+          It just doen&apos;t work for me. I&apos;m not exactly a goal oriented person with respect to running. It&apos;s not my element.
           Instead, I often find myself chasing for the thrill of it rather than for a particular achievement.
           Of course I still have goals, dreams, and grand visions. They&apos;re a great tool that helps to orient or align myself towards the future I desire;
           But the moment I begin persuing that gold trophy simply because it&apos;s a shiny accomplishment is the moment I become truly lost.
