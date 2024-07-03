@@ -23,20 +23,18 @@ export const blogPage = () => {
           I was aware of this problem and signed up for the Seabrook Lucky Trails Marathon (SLT for short) as a means to help get my mind back into gear and respark that
           rambunctious, jolly personallity of mine while on the race course.
           Then life hit me with a different kind of blow that really shook the boat. Now personal drama was placed into the mix.
-          I won&apos;t go into too much detail, but the toll created a real tsunami and whirlwind of emotions in me.
+          I won&apos;t go into too much detail, but the toll created a real tsunami within me.
           I&apos;m pretty grounded and stable, and perhaps that&apos;s normal for guys like me.
           But I wasn&apos;t ready for this flood. I subconsciously thought I had an impenetrable set of armor that no calamity could shake.
-          Well, turns out I&apos;m just another guy! I&apos;m not invincible, but strangely enough, I&apos;d never felt more alive. I had no idea I could even feel the way that I felt.
-          After picking up the peices, my slurry of negative emotions pushed me forward.
-          Throwing yourself a pity party is no way to solve your problems, no one was going to save me but myself.
-          I had a goal in mind during this time, I wouldn&apos;t run away from what I felt. I would feel it in all of its&apos; glory.
-          Running away from the storm wouldn&apos;t do me any good. I had to face it and accept it for what it is.
-          The storm was a giant spirit bomb of energy, both in negative and positive forms.
-          And energy is still energy at the end of the day, we just have to channel it in a positive direction for the good of ourselves and others.
+          Well, turns out I&apos;m just another guy! I&apos;m not invincible, and strangely enough, I&apos;d never felt more alive.
+          After picking up the peices as best I could, I pushed forward.
+          Throwing yourself a pity party is no way to solve your problems. No one was going to save me but myself.
+          So I faced and accepted the storm for what it was;
+          And it felt like a giant mass of energy, both in negative and positive forms.
+          Energy is still energy at the end of the day, we just have to channel it in a positive direction for the good of ourselves and others.
           This is the difference between heros and villians. A villian will channel that energy in a way that harms themselves and others,
           but a hero channels it in a positive way to better themselves and the people around them.
-          I&apos;m young, but no hero. I can at least try though. Try to move forward,
-          try to become stronger, try to become better, try to transform all of that negative energy into something positive and beautiful.
+          So that was my goal: to transform all of that energy into something positive and beautiful.
         </p>
         <br/>
         <p className="blurb">
@@ -50,7 +48,7 @@ export const blogPage = () => {
           It could have been much worse.
           This race is a looped course where you run 4 10K-ish laps along some nice crushed granite trails.
           Steve had sent me a check list full of pointers to help set my expectations. Just about everything he said was true.
-          Like having to snag your own water at the furthest water station, and the quick, narrow 360 degree turn through the western water station.
+          Like having to snag your own water at the furthest water station, and the quick, narrow 180 degree turn through the western water station.
           But one peice of advice burrowed its&apos; way into my mind like a worm, &quot;Start out in front, there will be very few people running at your speed.&quot;
           This race was ment to be a fun run for me, but I couldn&apos;t help but think &quot;What if?&quot; to myself.
         </p>
@@ -58,7 +56,8 @@ export const blogPage = () => {
         <p className="blurb">
           And so, I put my best foot forward. I would&apos;ve done so regardless.
           I started out in front with a few other guys, but I had my own race to run. I slowly settled into my pace as I chatted with
-          a kind soul. His name was Kerry, and he gave me the scoop on the fast rabbit out in front of us named Chris. They were close friends and both of them were
+          a kind soul. His name was Kerry, Steve&apos;s alledged &quot;archnemesis&quot; (but all in good fun, of course).
+          Kerry gave me the scoop on the fast rabbit out in front of us named Chris. They were close friends and both of them were
           capable of strong marathons. The catch is they were more than 20 years older than me! It&apos;s a trend I see often, and it always reminds me to never underestimate anyone!
           Throughout the race, I found this wild sense of peace within me as I locked in my stride.
           The great thing about looped courses is that you&apos;ll see other runners, spectators, and volunteers often.

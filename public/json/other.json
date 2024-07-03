@@ -7,13 +7,6 @@
     "age": "28"
   },
   {
-    "name": "Brazos Bend 50 Miler",
-    "date": "4/01/2023",
-    "time": "7:52:31",
-    "resultLink": "https://ultrasignup.com/results_participant.aspx?fname=Connor&lname=Bessell",
-    "age": "27"
-  },
-  {
     "name": "Space City 10 Miler #1",
     "date": "10/08/2023",
     "time": "1:00:50.1",
@@ -26,5 +19,12 @@
     "time": "1:41:13",
     "resultLink": "https://runsignup.com/Race/Results/142183/IndividualResult/sNRh?resultSetId=424759#U61106414",
     "age": "28"
+  },
+  {
+    "name": "Brazos Bend 50 Miler",
+    "date": "4/01/2023",
+    "time": "7:52:31",
+    "resultLink": "https://ultrasignup.com/results_participant.aspx?fname=Connor&lname=Bessell",
+    "age": "27"
   }
 ]
