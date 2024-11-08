@@ -1,5 +1,12 @@
 [
   {
+    "name": "Popsicle Dash",
+    "date": "7/13/2024",
+    "time": "40:31",
+    "resultLink": "https://results.raceroster.com/v2/en-US/results/kqmubjfu4zyh7kvy/detail/bw9tvqxgy4gzacy2",
+    "age": "28"
+  },
+  {
     "name": "Lemonade Dash",
     "date": "6/8/2024",
     "time": "41:37",
@@ -7,10 +14,10 @@
     "age": "28"
   },
   {
-    "name": "Watermelon Dash",
-    "date": "",
-    "time": "",
-    "resultLink": "",
+    "name": "Watermelon Dash (pacing duties)",
+    "date": "8/5/2024",
+    "time": "50:54",
+    "resultLink": "https://results.raceroster.com/v2/en-US/results/55nhm29m45zzxksj/detail/txt223px34m9hfc6",
     "age": "27"
   }
 ]

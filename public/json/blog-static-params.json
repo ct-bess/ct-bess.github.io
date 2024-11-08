@@ -7,12 +7,12 @@
   [
     { "year": "2024", "month": "jan" },
     { "year": "2024", "month": "feb" },
-    { "year": "2024", "month": "mar" }
+    { "year": "2024", "month": "sep" }
   ],
   "[year]/[month]/[entry]":
   [
     { "year": "2024", "month": "jan", "entry": "chm" },
     { "year": "2024", "month": "feb", "entry": "website" },
-    { "year": "2024", "month": "mar", "entry": "slt" }
+    { "year": "2024", "month": "sep", "entry": "summermadness" }
   ]
 }

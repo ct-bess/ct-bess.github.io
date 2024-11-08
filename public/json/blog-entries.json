@@ -20,12 +20,12 @@
           "path": "/blog/2024/feb/website"
         }
       ],
-      "March":
+      "September":
       [
         {
-          "name": "Seabrook Lucky Trails Marathon #1",
-          "id": "website",
-          "path": "/blog/2024/mar/slt"
+          "name": "Summer Madness and The Race From Hell",
+          "id": "summermadness",
+          "path": "/blog/2024/sep/summermadness"
         }
       ]
     }

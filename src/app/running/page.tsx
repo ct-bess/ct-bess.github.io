@@ -26,13 +26,23 @@ export default function Running() {
             My why is simple, it&apos;s basic self mastery, discovery, and actualization. Why do I continue to run these races or push myself in general?
             I want to be someone that I can truly be proud of. When I look back, I want to be proud of my arduous journey that has lead me to this point.
             I want to be my strongest self, and to do so, I must create it. I have to forge it with my own strength, little it may be.
-            That&apos;s not my only reason of course, just my main reason. I also run and workout to stay fit, I do it for the joy or thrill of it, I run for community,
+            That&apos;s not my only reason of course, just a reason. I also run and workout to stay fit, I do it for the joy or thrill of it, I run for community,
             and sometimes just for the challenge to see what I&apos;m capable of.
             It&apos;s important to keep your why close because it will cast any doubt you may ever have aside.
           </p>
         </div>
         <br/>
         <iframe className="center" height={160} width={300} src="https://www.strava.com/athletes/25917112/activity-summary/5416bb5333591a1c689c300b8e2a878fb9884d79"></iframe>
+      </div>
+
+      <h2 className="center"><u>Ultra History</u></h2>
+
+      <div className="race-container">
+        <p className="blurb">
+          Ultra marathons are funny huh?
+        </p>
+        <br/>
+        {PRTable( "ultra", "Ultra" )}
       </div>
 
       <h2 className="center"><u>Marathon History</u></h2>
@@ -85,9 +95,6 @@ export default function Running() {
       <div className="race-container">
         <p className="blurb">
           Now for the odd ball distances that I haven&apos;t done enough races in to justify giving them a dedicated table.
-          That 10 Miler still boggles my mind to this very day. How the hell did I do that? That&apos;s THREE sub 20 minute 5K&apos;s, back to back to back...
-          If you told highschool me that I&apos;d be able to do that, he&apos;d laugh at you and go back to slaying dragons in Runescape
-          (before the evolution of combat update, of course).
         </p>
         <br/>
         {PRTable( "other", "Other" )}

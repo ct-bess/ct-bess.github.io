@@ -1,10 +1,17 @@
 [
   {
-    "name": "Hells Hills 50K",
-    "date": "4/06/2024",
-    "time": "5:08:28",
-    "resultLink": "http://edsresults.com/hh24/index.php?search_type=runner_lookup&bib=63",
-    "age": "28"
+    "name": "HMSA Classic 25K #2",
+    "date": "",
+    "time": "",
+    "resultLink": "",
+    "age": "29"
+  },
+  {
+    "name": "Space City 10 Miler #2",
+    "date": "10/06/2024",
+    "time": "1:09:26.1",
+    "resultLink": "https://runsignup.com/Race/Results/163480/IndividualResult/zHJT?resultSetId=494649#U92207920",
+    "age": "29"
   },
   {
     "name": "Space City 10 Miler #1",
@@ -19,12 +26,5 @@
     "time": "1:41:13",
     "resultLink": "https://runsignup.com/Race/Results/142183/IndividualResult/sNRh?resultSetId=424759#U61106414",
     "age": "28"
-  },
-  {
-    "name": "Brazos Bend 50 Miler",
-    "date": "4/01/2023",
-    "time": "7:52:31",
-    "resultLink": "https://ultrasignup.com/results_participant.aspx?fname=Connor&lname=Bessell",
-    "age": "27"
   }
 ]
